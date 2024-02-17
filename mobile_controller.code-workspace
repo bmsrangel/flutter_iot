@@ -1,0 +1,21 @@
+{
+  "folders": [
+	{
+		"path": "mobile"
+	},
+	{
+		"name": "controller",
+		"path": "controller"
+	}
+],
+  "settings": {
+    "vsmqtt.brokerProfiles": [
+      {
+        "name": "iot_flutter",
+        "host": "broker.emqx.io",
+        "port": 1883,
+        "clientId": "vsmqtt_client_69c0"
+      }
+    ]
+  }
+}

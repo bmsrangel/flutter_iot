@@ -1,0 +1,9 @@
+{
+  "message": {
+    "topic": "/led/red/cm",
+    "payload": {
+      "topic": "/led/red/cm",
+      "value": 1
+    }
+  }
+}
